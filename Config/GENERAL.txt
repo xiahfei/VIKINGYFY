@@ -55,7 +55,7 @@ CONFIG_PACKAGE_kmod-nft-socket=y
 CONFIG_PACKAGE_kmod-nft-tproxy=y
 CONFIG_PACKAGE_kmod-fs-btrfs=y
 CONFIG_PACKAGE_kmod-inet-diag=y
-CONFIG_PACKAGE_kmod-netlink-diag=n
+CONFIG_PACKAGE_kmod-netlink-diag=y
 CONFIG_PACKAGE_kmod-sound-core=n
 CONFIG_PACKAGE_kmod-usb-audio=n
 #组件调整
